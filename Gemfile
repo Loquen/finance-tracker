@@ -7,8 +7,10 @@ gem 'rails', '4.2.5'
 gem 'devise'
 # Twitter bootstrap for styling
 gem 'twitter-bootstrap-rails'
-
+# Bootstrap for styling devise
 gem 'devise-bootstrap-views'
+
+gem 'stock_quote'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
